@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white}" />
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-[![Google_Gemini]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white))]([https://instagram.com/rf.l0_](http://gemini.google.com/) 
+[![Google_Gemini]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white])(https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](http://gemini.google.com/) 
 
 #### Programming Languages I'm Currently Learning
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
