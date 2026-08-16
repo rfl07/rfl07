@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 ##### My Sosical Media
-!(https://www.instagram.com/rf.l0_/)(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rf.l0_) 
 
 
 
